@@ -17,6 +17,18 @@
 
 ---
 
+## 🏛️ Architecture Diagram
+
+<div align="center">
+
+![vProfile Kubernetes Architecture](images/architecture-diagram.png)
+
+*High-level architecture: Application Load Balancer → Ingress → TomcatService → Tomcat Pod, backed by RabbitMQ, Memcache, and MySQL (DB Pod) with Kubernetes Secrets, PersistentVolumeClaim, StorageClass, and Amazon EBS for persistent storage.*
+
+</div>
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
