@@ -1,4 +1,4 @@
-# 🚀 vProfile — Kubernetes Deployment on AWS with kOps
+# 🚀 vProfile — Kubernetes Deployment on AWS with kOps 
 
 <div align="center">
 
